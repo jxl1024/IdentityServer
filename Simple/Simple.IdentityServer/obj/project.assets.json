@@ -675,11 +675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IdentityServer4\\Simple\\Simple.IdentityServer\\Simple.IdentityServer.csproj",
+      "projectUniqueName": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.IdentityServer\\Simple.IdentityServer.csproj",
       "projectName": "Simple.IdentityServer",
-      "projectPath": "D:\\IdentityServer4\\Simple\\Simple.IdentityServer\\Simple.IdentityServer.csproj",
+      "projectPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.IdentityServer\\Simple.IdentityServer.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IdentityServer4\\Simple\\Simple.IdentityServer\\obj\\",
+      "outputPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

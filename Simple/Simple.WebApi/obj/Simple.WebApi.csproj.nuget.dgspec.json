@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IdentityServer4\\Simple\\Simple.WebApi\\Simple.WebApi.csproj": {}
+    "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\Simple.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\IdentityServer4\\Simple\\Simple.WebApi\\Simple.WebApi.csproj": {
+    "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\Simple.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IdentityServer4\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
+        "projectUniqueName": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
         "projectName": "Simple.WebApi",
-        "projectPath": "D:\\IdentityServer4\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
+        "projectPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IdentityServer4\\Simple\\Simple.WebApi\\obj\\",
+        "outputPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

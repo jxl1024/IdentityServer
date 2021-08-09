@@ -159,11 +159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IdentityServer4\\Simple\\Simple.ConsoleClient\\Simple.ConsoleClient.csproj",
+      "projectUniqueName": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.ConsoleClient\\Simple.ConsoleClient.csproj",
       "projectName": "Simple.ConsoleClient",
-      "projectPath": "D:\\IdentityServer4\\Simple\\Simple.ConsoleClient\\Simple.ConsoleClient.csproj",
+      "projectPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.ConsoleClient\\Simple.ConsoleClient.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IdentityServer4\\Simple\\Simple.ConsoleClient\\obj\\",
+      "outputPath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.ConsoleClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

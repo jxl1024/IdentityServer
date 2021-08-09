@@ -33,7 +33,9 @@ namespace Simple.IdentityServer
                 // 将API范围配置添加到内存中
                 .AddInMemoryApiScopes(Config.ApiScopes)
                 // 将客户端添加到内存中
-                .AddInMemoryClients(Config.Clients); 
+                .AddInMemoryClients(Config.Clients)
+                // 添加用户
+                .AddTestUsers(Config.Users);
             #endregion
 
 

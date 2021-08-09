@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a5D8y5H7hASmwYa0VbRzGEw+rdc46RseoTdweP+2FFxUxKe/SM8vpy2YrFi9LldnMHbdCBr6ZP+4yCNjR+OOSQ==",
+  "dgSpecHash": "6nNx4hXdG7A1rw2MJpN3lEGMrfmWWgOAYC21jxV2Lh/GbOyR/rSw/JkoRfRm5nYU0xbqUcG7qQXtfzhi4QN+vQ==",
   "success": true,
-  "projectFilePath": "D:\\IdentityServer4\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
+  "projectFilePath": "D:\\IdentityServer4\\IdentityServer\\Simple\\Simple.WebApi\\Simple.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
